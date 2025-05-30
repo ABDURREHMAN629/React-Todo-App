@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 🚀 Live Demo
+
+👉 [Visit Live Site](https://abdurrehman629.github.io/React-Todo-App/)
+
+
+## 📸 Screenshots
+
+![React Todo App Screenshot](todo-main.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
